@@ -1,0 +1,37 @@
+
+
+#main{
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+}
+#header{
+	border: 1px solid gray;
+	witdh: 98%;
+	height: 150px;
+	background-image: url("images/bg_images.jpg");
+	color: white;
+
+}
+#contentmain{
+	witdh:898px;
+	
+}
+#menu
+{
+	float:left; border:1px solid gray; padding:5px; margin:5px; width: 150px;min-height: 500px;
+}
+#content
+{
+	float:left; border:1px solid gray; padding:5px; margin:5px; width: 700px;min-height: 500px;
+}
+#footer{
+	witdh: 898px;
+	text-align: center;
+	font-size: 10px;
+	color: gray;
+	float: center;
+	clear: both;
+	
+}
